@@ -1,9 +1,13 @@
-![CLI](/./image/Cli_start.png)
-![CLI](/./image/Cli_end.png)
 
 # Tokenizer CLI Tool
 
 A simple command-line interface (CLI) tool to **encode** text into token IDs and **decode** token IDs back to text using a custom tokenizer that supports multiple languages.
+
+---
+
+![CLI](/./image/Cli_start.png)
+![CLI](/./image/Cli_end.png)
+
 
 ---
 
