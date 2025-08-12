@@ -1,0 +1,17 @@
+{
+  "name": "01_Create_Embeddings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "dependencies": {
+    "openai": "^5.12.2"
+  }
+}
